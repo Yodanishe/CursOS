@@ -1,3 +1,3 @@
 # CoursWorkOS
-[![Build Status](https://travis-ci.com/Yodanishe/CursOS.svg?branch=main)](https://travis-ci.com/Yodanishe/CursOS)
+[![Build Status](https://travis-ci.com/MishaDak/CoursWorkOS.svg?branch=main)](https://travis-ci.com/MishaDak/CoursWorkOS)
 # CursOS
